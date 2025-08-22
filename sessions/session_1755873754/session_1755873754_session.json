@@ -1,0 +1,25 @@
+{
+  "start_time": "2025-08-22T14:42:34.530547",
+  "device_info": {
+    "name": "BrainBit",
+    "address": "D7D0944A-160C-A534-607F-DA77C6967F23",
+    "connected": true,
+    "battery_level": 85,
+    "signal_quality": "good"
+  },
+  "session_id": "session_1755873754",
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "filename": "session_1755873754_chunk_001.json",
+      "start_time": "2025-08-22T14:42:34.530641",
+      "end_time": "2025-08-22T14:42:37.463766",
+      "sample_count": 574,
+      "file_size": 163711
+    }
+  ],
+  "end_time": "2025-08-22T14:42:37.463818",
+  "total_chunks": 1,
+  "total_samples": 574,
+  "duration_seconds": 2.933271
+}
