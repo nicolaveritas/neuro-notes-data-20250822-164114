@@ -1,0 +1,17 @@
+{
+  "sessions": [
+    {
+      "session_id": "session_1755873754",
+      "start_time": "2025-08-22T14:42:34.530547",
+      "device_info": {
+        "name": "BrainBit",
+        "address": "D7D0944A-160C-A534-607F-DA77C6967F23",
+        "connected": true,
+        "battery_level": 85,
+        "signal_quality": "good"
+      },
+      "uploaded_at": "2025-08-22T14:42:40.964378"
+    }
+  ],
+  "last_updated": "2025-08-22T14:42:40.964383"
+}
